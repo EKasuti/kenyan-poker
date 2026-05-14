@@ -50,13 +50,13 @@ export function Setup() {
             delay={index * 0.15}
             className="flex flex-col items-center text-center">
             
-              <span className="font-display text-5xl text-kp-gold/20 font-bold mb-4">
+              <span className="font-display text-5xl text-kp-gold/50 font-bold mb-4">
                 {step.num}
               </span>
               <h3 className="text-xl text-kp-champagne font-semibold mb-2">
                 {step.title}
               </h3>
-              <p className="text-kp-champagne/60 text-sm leading-relaxed">
+              <p className="text-kp-champagne/85 text-sm leading-relaxed">
                 {step.desc}
               </p>
             </GlassCard>
@@ -78,17 +78,17 @@ export function Setup() {
           transition={{
             duration: 0.8
           }}
-          className="glass-panel rounded-2xl p-8 md:p-10 max-w-3xl mx-auto mt-12 border-kp-burgundy/30">
-          
-          <div className="flex items-center gap-3 mb-4">
+          className="glass-panel-accent rounded-2xl p-8 md:p-10 max-w-3xl mx-auto mt-12">
+
+          <div className="flex items-center gap-3 mb-5">
             <span className="text-kp-burgundy text-2xl">⚠</span>
-            <span className="text-kp-gold/60 text-[10px] uppercase tracking-[0.3em] font-semibold">
+            <span className="text-kp-gold/90 text-[10px] uppercase tracking-[0.3em] font-semibold">
               A Valid Starter
             </span>
           </div>
-          <p className="text-kp-champagne/80 leading-relaxed mb-4">
+          <p className="text-kp-champagne leading-relaxed mb-5">
             The discard pile may{' '}
-            <strong className="text-kp-gold font-medium">not begin</strong> with
+            <strong className="text-kp-gold font-semibold">not begin</strong> with
             any of the following. If one is drawn, return it, shuffle, and try
             again.
           </p>
@@ -96,7 +96,7 @@ export function Setup() {
             {invalidStarters.map((card) =>
             <span
               key={card}
-              className="px-3 py-1 rounded-full border border-kp-burgundy/40 text-kp-champagne/70 text-xs uppercase tracking-widest">
+              className="px-3 py-1 rounded-full border border-kp-burgundy/70 bg-kp-burgundy/10 text-kp-champagne text-xs uppercase tracking-widest">
               
                 {card}
               </span>
@@ -119,23 +119,23 @@ export function Setup() {
           transition={{
             duration: 0.8
           }}
-          className="glass-panel rounded-2xl p-8 md:p-10 max-w-3xl mx-auto mt-6 border-kp-gold/30">
-          
-          <div className="flex items-center gap-3 mb-4">
+          className="glass-panel-gold rounded-2xl p-8 md:p-10 max-w-3xl mx-auto mt-6">
+
+          <div className="flex items-center gap-3 mb-5">
             <span className="text-kp-gold text-2xl">✦</span>
-            <span className="text-kp-gold/60 text-[10px] uppercase tracking-[0.3em] font-semibold">
+            <span className="text-kp-gold/90 text-[10px] uppercase tracking-[0.3em] font-semibold">
               The Large Table
             </span>
           </div>
-          <p className="text-kp-champagne/80 leading-relaxed">
+          <p className="text-kp-champagne leading-relaxed">
             When more than{' '}
-            <strong className="text-kp-gold font-medium">five players</strong>{' '}
+            <strong className="text-kp-gold font-semibold">five players</strong>{' '}
             sit at the table, a hard cap of{' '}
-            <strong className="text-kp-gold font-medium">
+            <strong className="text-kp-gold font-semibold">
               10 cards per hand
             </strong>{' '}
             applies. Any player whose hand swells beyond ten must{' '}
-            <strong className="text-kp-gold font-medium">quit the game</strong>.
+            <strong className="text-kp-gold font-semibold">quit the game</strong>.
             A gentleman knows when to fold.
           </p>
         </motion.div>

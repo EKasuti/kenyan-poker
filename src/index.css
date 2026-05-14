@@ -121,4 +121,25 @@
     border: 1px solid rgba(201, 162, 74, 0.15);
     box-shadow: inset 0 0 20px rgba(201, 162, 74, 0.03), 0 8px 32px rgba(0, 0, 0, 0.6);
   }
+  .glass-panel-card {
+    background: rgba(22, 16, 10, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(201, 162, 74, 0.30);
+    box-shadow: inset 0 0 24px rgba(201, 162, 74, 0.05), 0 8px 32px rgba(0, 0, 0, 0.7);
+  }
+  .glass-panel-accent {
+    background: rgba(22, 10, 12, 0.80);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(107, 18, 40, 0.55);
+    box-shadow: inset 0 0 24px rgba(107, 18, 40, 0.06), 0 8px 32px rgba(0, 0, 0, 0.7);
+  }
+  .glass-panel-gold {
+    background: rgba(18, 14, 8, 0.80);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(201, 162, 74, 0.40);
+    box-shadow: inset 0 0 24px rgba(201, 162, 74, 0.06), 0 8px 32px rgba(0, 0, 0, 0.7);
+  }
 }

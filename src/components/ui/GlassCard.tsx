@@ -29,7 +29,7 @@ export function GlassCard({
         delay,
         ease: 'easeOut'
       }}
-      className={`glass-panel rounded-2xl p-6 md:p-8 relative overflow-hidden group transition-colors duration-500 hover:border-kp-gold/30 ${className}`}>
+      className={`glass-panel-card rounded-2xl p-6 md:p-8 relative overflow-hidden group transition-all duration-500 hover:border-kp-gold/50 hover:-translate-y-0.5 ${className}`}>
       
       {/* Shimmer effect on hover */}
       <div className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-kp-champagne/5 to-transparent group-hover:animate-shimmer pointer-events-none" />
