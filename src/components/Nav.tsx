@@ -10,6 +10,7 @@ const sections: Section[] = [
   { id: 'setup', label: 'Setup', suit: '♥' },
   { id: 'how-to-play', label: 'How to Play', suit: '♦' },
   { id: 'special-cards', label: 'Special Cards', suit: '♣' },
+  { id: 'card-reference', label: 'Card Reference', suit: '♦' },
   { id: 'winning', label: 'Winning', suit: '♠' },
   { id: 'pro-tips', label: 'Pro Tips', suit: '♥' },
 ]
@@ -40,7 +41,10 @@ export function Nav() {
     }
   }
   return (
-    <nav className="fixed top-0 left-0 right-0 w-full z-50 border-b border-kp-gold/20 bg-[#0a0a0a]" style={{ position: 'fixed' }}>
+    <nav
+      className="fixed top-0 left-0 right-0 w-full z-50 border-b border-kp-gold/20 bg-[#0a0a0a]"
+      style={{ position: 'fixed' }}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         {/* Desktop: Horizontal TOC */}
         <div className="hidden md:flex items-center justify-center gap-1 py-3">

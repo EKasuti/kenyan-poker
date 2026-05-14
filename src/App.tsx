@@ -5,6 +5,7 @@ import { Overview } from './components/Overview'
 import { Setup } from './components/Setup'
 import { HowToPlay } from './components/HowToPlay'
 import { SpecialCards } from './components/SpecialCards'
+import { CardReference } from './components/CardReference'
 import { Winning } from './components/Winning'
 import { ProTips } from './components/ProTips'
 import { Footer } from './components/Footer'
@@ -45,13 +46,19 @@ export function App() {
             <SpecialCards />
           </div>
 
-          <SectionDivider number="§4" suit="♣" />
+          <SectionDivider number="§4" suit="♦" />
+
+          <div id="card-reference" className="scroll-mt-24">
+            <CardReference />
+          </div>
+
+          <SectionDivider number="§5" suit="♣" />
 
           <div id="winning" className="scroll-mt-24">
             <Winning />
           </div>
 
-          <SectionDivider number="§5" suit="♠" />
+          <SectionDivider number="§6" suit="♠" />
 
           <div id="pro-tips" className="scroll-mt-24">
             <ProTips />
