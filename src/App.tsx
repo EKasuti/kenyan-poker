@@ -17,8 +17,8 @@ export function App() {
       {/* Booklet Table of Contents */}
       <Nav />
 
-      {/* Main Booklet Content */}
-      <div className="relative z-10">
+      {/* Main Booklet Content — pt offsets the fixed nav height */}
+      <div className="relative z-10 pt-[52px]">
         <Hero />
 
         <main className="relative max-w-5xl mx-auto">

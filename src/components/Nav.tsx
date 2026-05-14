@@ -24,7 +24,7 @@ export function Nav() {
           }
         })
       },
-      { threshold: 0.5, rootMargin: '-100px 0px -50% 0px' },
+      { threshold: 0.1, rootMargin: '-60px 0px -40% 0px' },
     )
     sections.forEach((section) => {
       const element = document.getElementById(section.id)
@@ -33,13 +33,14 @@ export function Nav() {
     return () => observer.disconnect()
   }, [])
   const scrollToSection = (id: string) => {
+    setActiveSection(id)
     const element = document.getElementById(id)
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'start' })
     }
   }
   return (
-    <nav className="sticky top-0 z-40 border-b border-kp-gold/20 backdrop-blur-xl bg-kp-black/80">
+    <nav className="fixed top-0 left-0 right-0 w-full z-50 border-b border-kp-gold/20 bg-[#0a0a0a]" style={{ position: 'fixed' }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         {/* Desktop: Horizontal TOC */}
         <div className="hidden md:flex items-center justify-center gap-1 py-3">
