@@ -1,7 +1,9 @@
 {
-  "name": "magic-patterns-vite-template",
+  "name": "kenyan-poker",
   "version": "0.0.1",
   "private": true,
+  "license": "LicenseRef-PolyForm-Noncommercial-1.0.0",
+  "author": "Emmanuel Kasuti Makau",
   "type": "module",
   "scripts": {
     "dev": "npx vite",
