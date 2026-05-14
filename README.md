@@ -122,4 +122,8 @@ The app runs at `http://localhost:5173` by default.
 
 ♠ &nbsp;&nbsp; ♥ &nbsp;&nbsp; ♦ &nbsp;&nbsp; ♣
 
+<br/>
+
+<sub>Vibecoded with [Magic Patterns](https://magicpatterns.com) &amp; [Claude Code](https://claude.ai/code) · Approved by [EKasuti](https://github.com/EKasuti)</sub>
+
 </div>
