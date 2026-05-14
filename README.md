@@ -14,6 +14,8 @@
 
 *A fast-paced card game for 2–5 players*
 
+**[Read the rules →](https://254-poker.vercel.app/)**
+
 </div>
 
 <br/>
@@ -111,6 +113,19 @@ npm run dev
 ```
 
 The app runs at `http://localhost:5173` by default.
+
+<br/>
+
+## Contributing
+
+Got a rule correction, a UI tweak, or a missing edge case? All contributions are welcome.
+
+1. Fork the repo
+2. Create a branch — `git checkout -b fix/your-change`
+3. Make your changes and commit
+4. Open a pull request against `main`
+
+If you're adding or changing game rules, reference the variant you're playing so we can keep the rulebook accurate. For UI changes, a screenshot in the PR goes a long way.
 
 <br/>
 
