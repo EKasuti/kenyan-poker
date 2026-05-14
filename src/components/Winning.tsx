@@ -16,15 +16,15 @@ export function Winning() {
           transition={{ duration: 1 }}
           className="relative py-16 md:py-20 px-6 md:px-12 border-y-2 border-kp-gold/30 bg-gradient-to-r from-transparent via-kp-burgundy/10 to-transparent"
         >
-          {/* Large §4 watermark */}
+          {/* Large §5 watermark */}
           <div className="absolute inset-0 flex items-center justify-center pointer-events-none overflow-hidden">
-            <span className="font-display text-[14rem] md:text-[18rem] font-bold text-kp-gold/5 leading-none select-none">§4</span>
+            <span className="font-display text-[14rem] md:text-[18rem] font-bold text-kp-gold/5 leading-none select-none">§5</span>
           </div>
 
           <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 text-kp-gold/40 text-2xl bg-kp-black px-4">♦</div>
 
           <div className="relative text-center mb-8">
-            <span className="text-kp-gold/60 text-[10px] uppercase tracking-[0.3em] font-semibold block mb-2">Chapter IV · The Final Word</span>
+            <span className="text-kp-gold/60 text-[10px] uppercase tracking-[0.3em] font-semibold block mb-2">Chapter V · The Final Word</span>
             <h2 className="font-display text-5xl md:text-7xl text-gold-foil font-bold mt-3 mb-4">"Niko Kadi"</h2>
             <p className="text-kp-champagne/50 italic font-display text-sm md:text-base tracking-wide">/ NEE-koh KAH-dee /</p>
             <div className="mt-4 h-[1px] w-32 mx-auto bg-gradient-to-r from-transparent via-kp-gold/50 to-transparent" />

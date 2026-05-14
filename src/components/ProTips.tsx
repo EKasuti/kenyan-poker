@@ -13,7 +13,7 @@ export function ProTips() {
   return (
     <section className="py-16 px-6 relative z-10">
       <div className="max-w-4xl mx-auto">
-        <SectionHeading title="Strategy of the Table" eyebrow="Chapter V · Pro Tips" align="center" sectionNumber="§5" />
+        <SectionHeading title="Strategy of the Table" eyebrow="Chapter VI · Pro Tips" align="center" sectionNumber="§6" />
 
         <motion.div
           initial={{ opacity: 0, y: 24 }}
