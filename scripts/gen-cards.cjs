@@ -123,7 +123,7 @@ function rowSvg(cards) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${totalW}" height="${CH}" viewBox="0 0 ${totalW} ${CH}">\n${body}\n</svg>`;
 }
 
-const outDir  = path.join(process.cwd(), 'images', 'cards');
+const outDir  = path.join(process.cwd(), 'public', 'images', 'cards');
 const singles = path.join(outDir, 'singles');
 fs.mkdirSync(singles, { recursive: true });
 

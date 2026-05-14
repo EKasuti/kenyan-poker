@@ -37,7 +37,7 @@
 > *The foundation of every hand. Played freely on matching suit or rank.*
 
 <div align="center">
-  <img src="images/cards/answer-cards.svg" alt="Answer Cards: 4 5 6 7 9 10 A" />
+  <img src="public/images/cards/answer-cards.svg" alt="Answer Cards: 4 5 6 7 9 10 A" />
 </div>
 
 > **The Ace · A Quiet Power** — Playing an Ace lets you declare the suit the next player must follow. An Ace also cancels any pending penalty, returning play to the suit from before the chain began.
@@ -49,7 +49,7 @@
 > *Queens and 8s ask a question. They must be answered — in the same turn — by an Answer Card of matching suit or rank.*
 
 <div align="center">
-  <img src="images/cards/question-cards.svg" alt="Question Cards: 8 Q" />
+  <img src="public/images/cards/question-cards.svg" alt="Question Cards: 8 Q" />
 </div>
 
 > **A Question Demands an Answer** — Every Question Card must be paired with a matching Answer Card in the same play. Question without an answer? Draw, and your turn ends.
@@ -61,7 +61,7 @@
 > *The Jack skips the next player. Counter with your own Jack and the skip cascades down the line.*
 
 <div align="center">
-  <img src="images/cards/jump-cards.svg" alt="Jump Cards: J♠ J♥ J♦ J♣" />
+  <img src="public/images/cards/jump-cards.svg" alt="Jump Cards: J♠ J♥ J♦ J♣" />
 </div>
 
 > **Compounding Jumps** — Stack multiple Jacks in a single turn to skip multiple players. Each Jack drops one more rival from the round.
@@ -73,7 +73,7 @@
 > *The King reverses direction of play. Chain them — each King flips the flow once more.*
 
 <div align="center">
-  <img src="images/cards/kickback-cards.svg" alt="Kickback Cards: K♠ K♥ K♦ K♣" />
+  <img src="public/images/cards/kickback-cards.svg" alt="Kickback Cards: K♠ K♥ K♦ K♣" />
 </div>
 
 > **Counter or Compound** — The player about to be acted upon may play their own Kickback to reverse it. Multiple Kings in one turn flip the direction once for each.
@@ -85,7 +85,7 @@
 > *The 2, 3, and the two Jokers. The harshest weapons in the deck — forcing the next player to draw.*
 
 <div align="center">
-  <img src="images/cards/penalty-cards.svg" alt="Penalty Cards: 2♠ 2♥ draw 2 · 3♦ 3♣ draw 3 · Joker draw 5" />
+  <img src="public/images/cards/penalty-cards.svg" alt="Penalty Cards: 2♠ 2♥ draw 2 · 3♦ 3♣ draw 3 · Joker draw 5" />
 </div>
 
 > **Three Ways to Survive** — The targeted player may escape by playing another Penalty Card of the same rank (forwarding the draw), or by playing an Ace (cancelling it entirely). After a Joker, play continues with the suit and rank from the prior penalty.
