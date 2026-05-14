@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556" height="140" viewBox="0 0 556 140">
+
+  <defs>
+    <linearGradient id="cg_u73" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#fdfaf2"/>
+      <stop offset="55%"  stop-color="#f5ecd7"/>
+      <stop offset="100%" stop-color="#e8d9b0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0"   y="0"   width="100"    height="140"    rx="10" fill="url(#cg_u73)"/>
+  <rect x="0"   y="0"   width="100"    height="140"    rx="10" fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="5" y="5" width="90" height="130" rx="7"    fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.5"/>
+    <g>
+    <text x="9" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#1a1410">2</text>
+    <text x="11"     y="35" font-size="13" fill="#1a1410">♠</text>
+  </g>
+  <text x="50" y="26.6" font-size="15" fill="#1a1410" text-anchor="middle" dominant-baseline="middle">♠</text>
+  <text x="50" y="113.4" font-size="15" fill="#1a1410" text-anchor="middle" dominant-baseline="middle" transform="rotate(180,50,113.4)">♠</text>
+    <g transform="rotate(180,50,70)">
+    <text x="9" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#1a1410">2</text>
+    <text x="11"     y="35" font-size="13" fill="#1a1410">♠</text>
+  </g>
+
+  <defs>
+    <linearGradient id="cg_u74" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#fdfaf2"/>
+      <stop offset="55%"  stop-color="#f5ecd7"/>
+      <stop offset="100%" stop-color="#e8d9b0"/>
+    </linearGradient>
+  </defs>
+  <rect x="114"   y="0"   width="100"    height="140"    rx="10" fill="url(#cg_u74)"/>
+  <rect x="114"   y="0"   width="100"    height="140"    rx="10" fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="119" y="5" width="90" height="130" rx="7"    fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.5"/>
+    <g>
+    <text x="123" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#9e2a2b">2</text>
+    <text x="125"     y="35" font-size="13" fill="#9e2a2b">♥</text>
+  </g>
+  <text x="164" y="26.6" font-size="15" fill="#9e2a2b" text-anchor="middle" dominant-baseline="middle">♥</text>
+  <text x="164" y="113.4" font-size="15" fill="#9e2a2b" text-anchor="middle" dominant-baseline="middle" transform="rotate(180,164,113.4)">♥</text>
+    <g transform="rotate(180,164,70)">
+    <text x="123" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#9e2a2b">2</text>
+    <text x="125"     y="35" font-size="13" fill="#9e2a2b">♥</text>
+  </g>
+
+  <defs>
+    <linearGradient id="cg_u75" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#fdfaf2"/>
+      <stop offset="55%"  stop-color="#f5ecd7"/>
+      <stop offset="100%" stop-color="#e8d9b0"/>
+    </linearGradient>
+  </defs>
+  <rect x="228"   y="0"   width="100"    height="140"    rx="10" fill="url(#cg_u75)"/>
+  <rect x="228"   y="0"   width="100"    height="140"    rx="10" fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="233" y="5" width="90" height="130" rx="7"    fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.5"/>
+    <g>
+    <text x="237" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#9e2a2b">3</text>
+    <text x="239"     y="35" font-size="13" fill="#9e2a2b">♦</text>
+  </g>
+  <text x="278" y="26.6" font-size="15" fill="#9e2a2b" text-anchor="middle" dominant-baseline="middle">♦</text>
+  <text x="278" y="70" font-size="15" fill="#9e2a2b" text-anchor="middle" dominant-baseline="middle">♦</text>
+  <text x="278" y="113.4" font-size="15" fill="#9e2a2b" text-anchor="middle" dominant-baseline="middle" transform="rotate(180,278,113.4)">♦</text>
+    <g transform="rotate(180,278,70)">
+    <text x="237" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#9e2a2b">3</text>
+    <text x="239"     y="35" font-size="13" fill="#9e2a2b">♦</text>
+  </g>
+
+  <defs>
+    <linearGradient id="cg_u76" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#fdfaf2"/>
+      <stop offset="55%"  stop-color="#f5ecd7"/>
+      <stop offset="100%" stop-color="#e8d9b0"/>
+    </linearGradient>
+  </defs>
+  <rect x="342"   y="0"   width="100"    height="140"    rx="10" fill="url(#cg_u76)"/>
+  <rect x="342"   y="0"   width="100"    height="140"    rx="10" fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="347" y="5" width="90" height="130" rx="7"    fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.5"/>
+    <g>
+    <text x="351" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#1a1410">3</text>
+    <text x="353"     y="35" font-size="13" fill="#1a1410">♣</text>
+  </g>
+  <text x="392" y="26.6" font-size="15" fill="#1a1410" text-anchor="middle" dominant-baseline="middle">♣</text>
+  <text x="392" y="70" font-size="15" fill="#1a1410" text-anchor="middle" dominant-baseline="middle">♣</text>
+  <text x="392" y="113.4" font-size="15" fill="#1a1410" text-anchor="middle" dominant-baseline="middle" transform="rotate(180,392,113.4)">♣</text>
+    <g transform="rotate(180,392,70)">
+    <text x="351" y="22" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="16" fill="#1a1410">3</text>
+    <text x="353"     y="35" font-size="13" fill="#1a1410">♣</text>
+  </g>
+
+  <defs>
+    <linearGradient id="cg_u77" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#fdfaf2"/>
+      <stop offset="55%"  stop-color="#f5ecd7"/>
+      <stop offset="100%" stop-color="#e8d9b0"/>
+    </linearGradient>
+  </defs>
+  <rect x="456"   y="0"   width="100"    height="140"    rx="10" fill="url(#cg_u77)"/>
+  <rect x="456"   y="0"   width="100"    height="140"    rx="10" fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="461" y="5" width="90" height="130" rx="7"    fill="none" stroke="#c9a24a" stroke-width="0.6" stroke-opacity="0.5"/>
+  <text x="465"  y="21" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="12" fill="#4a0f1a">JKR</text>
+  <text x="469" y="33" font-size="11" fill="#4a0f1a">★</text>
+  <rect x="469" y="38" width="74" height="84" rx="4" fill="none" stroke="#c9a24a" stroke-width="0.5" stroke-opacity="0.5"/>
+  <text x="506" y="62"  font-size="34" fill="#6b1228" text-anchor="middle" dominant-baseline="middle">★</text>
+  <text x="506" y="90" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="10" fill="#4a0f1a" text-anchor="middle" letter-spacing="2">JOKER</text>
+  <text x="506" y="101" font-size="8"  fill="#c9a24a" text-anchor="middle" fill-opacity="0.7">♦ ♣ ♠ ♥</text>
+  <g transform="rotate(180,506,70)">
+    <text x="465"  y="21" font-family="'Cormorant Garamond',Georgia,serif" font-weight="bold" font-size="12" fill="#4a0f1a">JKR</text>
+    <text x="469" y="33" font-size="11" fill="#4a0f1a">★</text>
+  </g>
+</svg>
