@@ -124,6 +124,6 @@ The app runs at `http://localhost:5173` by default.
 
 <br/>
 
-<sub>Vibecoded with [Magic Patterns](https://magicpatterns.com) &amp; [Claude Code](https://claude.ai/code) · Approved by [EKasuti](https://github.com/EKasuti)</sub>
+<sub>Vibecoded with [Magic Patterns](https://magicpatterns.com) &amp; [Claude Code](https://claude.ai/code) · logo by [Gemini](https://gemini.google.com) · Approved by [EKasuti](https://github.com/EKasuti)</sub>
 
 </div>
